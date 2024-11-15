@@ -6,7 +6,6 @@ I'm Aidil Fahmi 😳 or you can call me aidil 😊
 |------------------------|-----------------------------------------------------------------------------------------|
 | **Timezone**           | WIB (UTC+7, 📍 Indonesia)                                                               |
 | **Languages**          | Indonesian, English, and Arabic ✌️                                                   |
-| **Discord**            | aaidil                                                                                 |
 | **MBTI**               | ESFP-A                                                                                  |
 | **Current Education**  | Information System at UB (Brawijaya University)                 |
 | **Interests**          | Software Dev, Data Science, UI/UX, Front-end Dev                                           |
