@@ -11,7 +11,11 @@ I'm Aidil Fahmi 😳 or you can call me aidil 😊
 | **Interests**          | Software Dev, Data Science, UI/UX, Front-end Dev                                           |
 | **Programming Languages** | Java, Python, PHP                                                                 |
 
+## Who am I? 🔍
 
+I'm someone who loves exploring topics that spark my curiosity. I’ve taken on numerous projects to broaden my knowledge and skills. I also enjoy helping others grasp concepts I’ve already mastered, creating a win-win scenario — they get to grow, and I get to deepen my understanding by teaching and explaining to others.
+
+For now, that’s all about me. I hope to accomplish even more in the future so I can share much more with all of you! 👋
 <!--
 **adlmii/adlmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
