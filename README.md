@@ -9,7 +9,7 @@ I'm Aidil Fahmi 😳 or you can call me aidil 😊
 | **Discord**            | aaidil                                                                                 |
 | **MBTI**               | ESFP-A                                                                                  |
 | **Current Education**  | Information System at UB (Brawijaya University)                 |
-| **Interests**          | Software Dev, Data Science, UI/UX   Front-end Dev                                           |
+| **Interests**          | Software Dev, Data Science, UI/UX, Front-end Dev                                           |
 | **Programming Languages** | Java, Python, PHP                                                                 |
 
 
